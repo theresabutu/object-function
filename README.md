@@ -1,2 +1,2 @@
-# arrays-functions
+
 # object-function
